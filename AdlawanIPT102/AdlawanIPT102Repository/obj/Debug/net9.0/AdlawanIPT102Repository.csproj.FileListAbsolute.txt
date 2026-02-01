@@ -1,0 +1,12 @@
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\bin\Debug\net9.0\AdlawanIPT102Repository.deps.json
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\bin\Debug\net9.0\AdlawanIPT102Repository.dll
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\bin\Debug\net9.0\AdlawanIPT102Repository.pdb
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.csproj.AssemblyReference.cache
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.AssemblyInfoInputs.cache
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.AssemblyInfo.cs
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.csproj.CoreCompileInputs.cache
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.dll
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\refint\AdlawanIPT102Repository.dll
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\AdlawanIPT102Repository.pdb
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Repository\obj\Debug\net9.0\ref\AdlawanIPT102Repository.dll

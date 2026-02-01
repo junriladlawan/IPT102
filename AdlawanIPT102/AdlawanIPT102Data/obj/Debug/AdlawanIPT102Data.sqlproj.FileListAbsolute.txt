@@ -1,0 +1,10 @@
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\bin\Debug\AdlawanIPT102Data.dacpac
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\bin\Debug\AdlawanIPT102Data.dll
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\bin\Debug\AdlawanIPT102Data.pdb
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\AdlawanIPT102Data.sqlproj.AssemblyReference.cache
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\Model.xml
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\refactor.xml
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\postdeploy.sql
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\predeploy.sql
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\AdlawanIPT102Data.dll
+D:\EulaticIPT102\AdlawanIPT102\AdlawanIPT102Data\obj\Debug\AdlawanIPT102Data.pdb
